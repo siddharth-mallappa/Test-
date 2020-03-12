@@ -4,4 +4,5 @@ def what:
 def newfile:
     pass
 def whatthefuck:
-    pass
+    return nothing
+    
